@@ -38,7 +38,7 @@ Testing GraphQL, mySQL to GraphQL
 - Press `Run`
 
 ## mySQL_to_GraphQL_Server.js
-
+- Get `datebase.sqlite` here `https://www.kaggle.com/gabrio/board-games-dataset`
 - Type
   ```
   {
