@@ -2,11 +2,12 @@
 Testing GraphQL, mySQL to GraphQL
 
 # Tesing
-
-- Run `node Basic_Server.js`
-- Open `http://localhost:4000/graphql`
+- Run   `npm install`
+- Run   `node Basic_Server.js`
+- Open  `http://localhost:4000/graphql`
 
 ## Basic_Server.js
+
 - Type
     ```
     query getCourseWithFragments($courseID1: Int!, $courseID2: Int!) {
@@ -37,6 +38,7 @@ Testing GraphQL, mySQL to GraphQL
 - Press `Run`
 
 ## mySQL_to_GraphQL_Server.js
+
 - Type
   ```
   {
